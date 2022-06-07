@@ -1,5 +1,2 @@
 resources:
-  - applications.yaml
-  - manifests.yaml
-  - monitoring.yaml
   - action-runner-controller.yaml
