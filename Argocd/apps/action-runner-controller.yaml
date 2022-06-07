@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: git@github.com:advancedblockchain/gitops
     targetRevision: HEAD
-    path: dev/abag/ActionRunnerController
+    path: dev/abag/actionrunnercontroller
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
