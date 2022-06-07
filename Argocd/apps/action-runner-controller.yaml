@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:advancedblockchain/gitops
+    repoURL: git@github.com:mayank077/Testing
     targetRevision: HEAD
     path: Argocd/actionrunnercontroller
   destination:
